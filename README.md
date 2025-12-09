@@ -1,4 +1,4 @@
-
+The main.java and the output file is in the src folder
  Overview
 This Java program allows a teacher or school administrator to input student information and marks, calculate totals and grades, and generate a detailed report including class statistics.
 
